@@ -1,0 +1,2 @@
+# manytomany
+JAX-RS ManyToMany
